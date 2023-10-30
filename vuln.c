@@ -1,3 +1,5 @@
+// Compile me using: gcc -m64 -static -fno-stack-protector -o vulnOut vuln.c 
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
